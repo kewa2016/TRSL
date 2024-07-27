@@ -26,6 +26,7 @@ accelerate
 optimum
 sentencepiece
 srt
+omegaconf==2.0.6
 onnxruntime-gpu
 git+https://github.com/R3gm/openvoice_package.git@lite
 # Documents
